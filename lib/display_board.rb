@@ -11,4 +11,4 @@ puts "  #{display_board[6]}  |  #{display_board[7]}  |  #{display_board[8]}  "
 
 end
 
-display_board(board = ["O", " ", " ", " ", " ", " ", " ", " ", " ")
+display_board(board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
