@@ -13,3 +13,5 @@ puts row_2
 puts row_1
 
 end
+
+display_board(board = ["O", " ", " ", " ", " ", " ", " ", " ", " ")
