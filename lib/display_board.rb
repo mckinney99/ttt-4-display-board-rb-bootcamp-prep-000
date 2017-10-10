@@ -8,7 +8,7 @@ puts break2 = "-----------"
 puts row3 = " #{board[6]} | #{board[7]} | #{board[8]} "
 end
 
-board = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
+board = ["  ", "  ", "  ", "  ", "  ", "  ", "  ", "  ", "  "]
 display_board(board)
 
 
