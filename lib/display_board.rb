@@ -11,7 +11,6 @@ end
 board = ["   ", "   ", "   ", "   ", "   ", "   ", "   ", "   ", "   "]
 display_board(board)
 
-players = ["X, "O"]
 
 players[0] = board[4]
 
